@@ -1,5 +1,3 @@
-# Aerofit-Business-Case
-
 ## Business Case: Aerofit - Descriptive Statistics & Probability
 
 ## About Aerofit
